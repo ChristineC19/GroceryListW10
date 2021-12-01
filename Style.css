@@ -1,0 +1,37 @@
+h1{
+	color: blue;
+	font-size:18;
+	font-family: Georgia;
+	text-align:center;
+	border: 2px solid powderblue;
+	margin: 50px;
+}
+
+h2{
+	color: Green;
+	font-size:14;
+	font-family: Georgia;
+	text-align:center;
+	margin: 50px;
+}
+body{
+	background:#ffe552;
+	color: Red;
+	text-align:center;
+	border: 2px solid blue;
+	margin: 50px;
+	font-size:16;
+	font-family:Arial;
+	
+}
+
+li:before {
+    content: "";
+    margin-left: -60.5rem;
+	display: inline;
+	
+}
+
+	
+
+
